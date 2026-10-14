@@ -1,0 +1,25 @@
+# Banco de dados SQLite
+precos.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos 
+Mercadoinator.md
+
+# Arquivos compilados e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais (caso venha a criar venv)
+.venv/
+venv/
+env/
+
+# Configurações de IDEs / Editores
+.vscode/
+.idea/
+
+# Variáveis de ambiente / segredos
+.env
